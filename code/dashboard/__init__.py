@@ -1,0 +1,3 @@
+"""
+GhostTrace AI Dashboard Package
+"""
